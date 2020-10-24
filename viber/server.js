@@ -30,11 +30,11 @@ const app = express();
 //See https://dialogflow.com/docs/reference/v2-auth-setup and
 // https://cloud.google.com/dialogflow/docs/setup for details.
 
-const webhookUrl = 'Place webhook url here';
-const projectId = 'Place dialogflow project id here';
-const botName = 'Place Viber bot name here';
-const botAvatarLink = 'Place image link less than 100kb';
-const viberToken = 'Place Viber token here';
+const webhookUrl =scarlet_hoang ;
+const projectId =tienganhlop3-d9vq ';
+const botName = SCARLET ;
+const botAvatarLink =https://dl-media.viber.com/1/share/2/long/vibes/icon/image/0x0/3a71/156dbbb160a67195299ecc96e0f36607df6c715b73de7ab497f13e46c69c3a71.jpg ';
+const viberToken =4c56aa4860000f75-7a8cd77c965829c6-4843f1d6d8952826 ;
 
 const sessionClient = new dialogflowSessionClient(projectId);
 
